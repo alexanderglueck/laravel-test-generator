@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.4",
-        "illuminate/routing": "7.*",
+        "illuminate/routing": "8.*",
         "nette/php-generator": "^3.4"
     },
     "require-dev": {
