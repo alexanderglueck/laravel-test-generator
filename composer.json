@@ -1,5 +1,5 @@
 {
-    "name": "sofa/laravel-test-generator",
+    "name": "alexanderglueck/laravel-test-generator",
     "description": "Don't write boilerplate for your feature tests in a Laravel project",
     "keywords": [
         "laravel-test-generator"
